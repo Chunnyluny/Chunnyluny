@@ -30,4 +30,5 @@ Thank you for reading, Stay Chuned. (Pun intended)
 &emsp;
 ![GitHub](https://img.shields.io/github/license/chunnyluny/chunnyluny?style=for-the-badge&logo=github)
 &emsp;
-<a href="https://ko-fi.com/I2I8ND4C0"> <img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-purple?logo=ko-fi&style=for-the-badge"/>
+<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-purple?logo=ko-fi&style=for-the-badge"/>
+</a>

@@ -2,7 +2,7 @@ Hello and welcome to my profile.
 
 ---
 
-- 🔭 I’m currently working on: [Dogutility RimWorld mod](https://github.com/Chunnyluny/Dogutility)
+- 🔭 I’m currently working on: [Dog apparel,RimWorld mod](https://github.com/Chunnyluny/DogApparel)
 - 🌱 I’m currently learning: XML, C#, Python
 - 😄 Pronouns: She, her
 - 📫 Keep up to date and stay in touch: &emsp; <a href="https://discord.gg/NjbW9RTQkA"><img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-purple?style=for-the-badge&logo=discord"/>

@@ -2,14 +2,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical"/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chunnyluny&theme=radical"/>
-
-- 🔭 I’m currently working on: [Dog apparel, a RimWorld mod](https://github.com/Chunnyluny/DogApparel)
-- 🌱 I’m currently learning: XML, C#, Python
 - 😄 Pronouns: She, her
-
-<a href="https://discord.gg/NjbW9RTQkA">
-<img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord"/>
-</a>
 
 I'm currently learning to use these programs to design textures for mods and logos: 
 &emsp;
@@ -28,7 +21,7 @@ Games I own but used to play in the past: Apex Legends, Call of Duty War zone, F
  
 You can find me on discord daily. It depends on my mood if I stream or not. If I’m not live on twitch, you find me daily on any of my discord voice channels. If you have similar hobbies and games, come and hang out or play some games together.
 
-Recently, I started making RimWorld mods, using GitHub. Welcome to my journey in writing and showing my creative side of me. I hope to inspire and teach you useful things, I want to become more confident about myself and don't want to be influenced by negative opinions from other people. 
+Recently, I started making RimWorld mods, using GitHub. Welcome to my journey in writing and showing my creative side of me. I hope to inspire and teach you useful things, I want to become more confident about myself and want to learn to not get influenced by negative opinions of other people. 
 
 Thank you for reading, Stay Chuned. (Pun intended)
 

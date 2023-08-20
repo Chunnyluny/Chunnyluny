@@ -1,12 +1,21 @@
-Hello and welcome to my profile.
+# Hello and welcome to my profile.
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chunnyluny&theme=radical"/>
 
-- 🔭 I’m currently working on: [Dog apparel,RimWorld mod](https://github.com/Chunnyluny/DogApparel)
+- 🔭 I’m currently working on: [Dog apparel, a RimWorld mod](https://github.com/Chunnyluny/DogApparel)
 - 🌱 I’m currently learning: XML, C#, Python
 - 😄 Pronouns: She, her
-- 📫 Keep up to date and stay in touch: &emsp; <a href="https://discord.gg/NjbW9RTQkA"><img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-purple?style=for-the-badge&logo=discord"/>
+
+<a href="https://discord.gg/NjbW9RTQkA">
+<img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord"/>
 </a>
+
+I'm currently learning to use these programs to design textures for mods and logos: 
+&emsp;
+  <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
+&emsp;
+  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
 
 ---
 
@@ -24,11 +33,25 @@ Recently, I started making RimWorld mods, using GitHub. Welcome to my journey in
 Thank you for reading, Stay Chuned. (Pun intended)
 
 ---
-![Twitch Status](https://img.shields.io/twitch/status/chunnyluny?style=social&logo=twitch&label=Follow%20me!)
-&emsp;
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/Chunnyluny?style=social&logo=reddit)
-&emsp;
-![GitHub](https://img.shields.io/github/license/chunnyluny/chunnyluny?style=for-the-badge&logo=github)
-&emsp;
-<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-purple?logo=ko-fi&style=for-the-badge"/>
-</a>
+
+<p align="center">
+  <a href="https://discord.gg/NjbW9RTQkA">
+    <img alt="Join my server" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
+  </a>
+  &emsp;
+  <a href="https://twitch.tv/chunnyluny">
+    <img alt="Follow me" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="https://www.reddit.com/user/Chunnyluny">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/chunnyluny?style=for-the-badge&logo=reddit&color=magenta">
+  </a>
+  &emsp;
+  <a href="https://github.com/Chunnyluny/Chunnyluny/blob/Master/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta">
+  </a>
+  &emsp;
+ <a href="https://ko-fi.com/I2I8ND4C0">
+  <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge"/>
+  </a>
+</p>

@@ -1,14 +1,32 @@
-# Hello and welcome to my profile.
+<h1 align="center">Hello and welcome to my profile.</h1>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chunnyluny&theme=radical"/>
-- 😄 Pronouns: She, her
-
-I'm currently learning to use these programs to design textures for mods and logos: 
+<details align="center">
+  <summary>GitHub Profile Summary Card Graph</summary>
+  <p align="center">:round_pushpin: GitHub Profile Summary Card Graph</p>
+  <div align="center">
+    <a href="https://github.com/Chunnyluny">
+      <img height="160em" alt="GitHub Summary Card Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical" />
+  </div>
+  <br>
+  <div align="center">
+    <a href="https://github.com/Chunnyluny">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </div>
+  <p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chunnyluny&theme=radical" />
+    <br>
+  <div align="center">
+    <a href="https://github.com/chunnyluny">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=7&theme=radical" />
+  </div>
+</details>
+<p align="right">
+👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos: 
 &emsp;
-  <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
+   <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
 &emsp;
   <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
+</p>
 
 ---
 
@@ -33,7 +51,7 @@ Thank you for reading, Stay Chuned. (Pun intended)
   </a>
   &emsp;
   <a href="https://twitch.tv/chunnyluny">
-    <img alt="Follow me" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   &emsp;
   <a href="https://www.reddit.com/user/Chunnyluny">
@@ -44,7 +62,7 @@ Thank you for reading, Stay Chuned. (Pun intended)
     <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta">
   </a>
   &emsp;
- <a href="https://ko-fi.com/I2I8ND4C0">
-  <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge"/>
+  <a href="https://ko-fi.com/I2I8ND4C0">
+    <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge" />
   </a>
 </p>

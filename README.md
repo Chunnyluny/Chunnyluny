@@ -12,14 +12,13 @@
     <a href="https://github.com/Chunnyluny">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   </div>
-  <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chunnyluny&theme=radical" />
-    <br>
+  <br>
   <div align="center">
     <a href="https://github.com/chunnyluny">
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=7&theme=radical" />
   </div>
 </details>
+      
 <p align="right">
 👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos: 
 &emsp;

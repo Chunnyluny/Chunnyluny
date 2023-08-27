@@ -24,11 +24,9 @@
 </p>
 
 <h2 align= "center">Repositories I have created</h2>
+<!--START_SECTION:Recent_activity -->
 
-- **[Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)** - A RimWorld mod that adds apparel for dogs.
-- **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - A RimWorld modtemplate.
-- **[Chunnyluny/TroubleshootingGuide](https://github.com/Chunnyluny/troubleshootingguide)** - A guide to modded RimWorld
-- **[Chunnyluny/CLV-RimSort](https://github.com/Chunnyluny/CLV-RimSort)** - A fork to contribute to [RimSort/RimSort](https://github.com/RimSort/RimSort)
+<!--END_SECTION:Recent_activity -->
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
@@ -67,8 +65,8 @@
  <div align="center">
     <a href="https://github.com/Chunnyluny">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
- <div align="center">       
-   <!--START_SECTION:WAKA-->
+ <div align="center">
+<!--START_SECTION:WAKA-->
 
 ```txt
 From: 25 August 2023 - To: 26 August 2023

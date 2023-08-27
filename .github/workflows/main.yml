@@ -14,8 +14,15 @@ jobs:
    steps:
     - uses: actions/checkout@v3
     - uses: athul/waka-readme@master
+    - run: |
+          go install github.com/muesli/markscribe@master
+          markscribe ./templates/README.md.tpl > README.md
+      shell: bash
+      env:
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
       with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        WAKATIME_API_KEY:
+          ${{secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
@@ -24,3 +31,8 @@ jobs:
           LANG_COUNT: 5
           COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
           SECTION_NAME: WAKA
+          commit_message: "update activity"
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: "102756485+Chunnyluny@users.noreply.github.com"
+          commit_author: readme-scribe 🤖 <"102756485+Chunnyluny@users.noreply.github.com">

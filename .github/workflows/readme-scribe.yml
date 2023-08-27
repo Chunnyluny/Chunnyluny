@@ -6,7 +6,7 @@ on:
   workflow_dispatch: null
   schedule:
     - cron: 0 22 * * 1-5
-    - cron: 0 22 * * 1-5
+    
 jobs:
   update-readme:
     name: updated waka-readme graph with new metrics
@@ -28,7 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Run Markscribe
         run: |
-          markscribe ./templates/README.md.tpl > README.md
+          markscribe ././templates/README.md.tpl > README.md
         shell: bash
       - name: Run Waka-Readme
         uses: athul/waka-readme@master

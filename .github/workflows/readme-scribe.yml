@@ -26,9 +26,11 @@ jobs:
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          
       - name: Run Markscribe
         run: |
-          markscribe ././templates/README.md.tpl > README.md
+          markscribe ./templates/README.md.tpl > README.md 2> markscribe_errors.log
         shell: bash
       - name: Run Waka-Readme
         uses: athul/waka-readme@master

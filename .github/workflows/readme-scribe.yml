@@ -39,7 +39,8 @@ jobs:
       
       - name: Generate README using Markscribe
         run: markscribe templates/README.md.tpl
-      
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Display README content
         run: cat README.md
 

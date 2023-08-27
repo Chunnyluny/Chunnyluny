@@ -34,6 +34,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Generate or update the README using Markscribe
+      - name: Show current directory contents
+        run: ls -al
+      
+      - name: Generate README using Markscribe
+        run: markscribe templates/README.md.tpl > README.md
+      
+      - name: Display README content
+        run: cat README.md
       - name: Generate README using Markscribe
         run: markscribe templates/README.md.tpl > README.md
         shell: bash

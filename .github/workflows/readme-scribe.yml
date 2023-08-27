@@ -1,38 +1,45 @@
-name: Combined Workflows
+name: Update Readme with Metrics
+
 on:
   push:
     branches:
       - master
-  workflow_dispatch: null
+  workflow_dispatch:
   schedule:
-    - cron: 0 22 * * 1-5
-    
+    - cron: '0 22 * * 1-5'
+
 jobs:
-  update-readme:
-    name: updated waka-readme graph with new metrics
+  refresh-readme:
+    name: Refresh README with Waka Metrics and Other Info
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
-      - name: Checkout repository
+      # Checkout the repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
-      - name: Setup Go
+
+      # Set up the Go environment
+      - name: Set Up Go Environment
         uses: actions/setup-go@v2
         with:
           go-version: ^1
-      - name: Install Markscribe
-        run: |
-          go install github.com/muesli/markscribe@master
+
+      # Install the Markscribe tool
+      - name: Install Markscribe Tool
+        run: go install github.com/muesli/markscribe@master
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          
-      - name: Run Markscribe
-        run: |
-          markscribe ./templates/README.md.tpl > README.md 2> markscribe_errors.log
+      # Generate or update the README using Markscribe
+      - name: Generate README using Markscribe
+        run: markscribe ./templates/README.md.tpl > README.md 2> markscribe_errors.log
         shell: bash
-      - name: Run Waka-Readme
+
+      # Update the README with Waka-Readme metrics
+      - name: Update README with Waka Metrics
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -42,19 +49,16 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 5
-          COMMIT_MESSAGE: updated waka-readme graph with new metrics
-          SECTION_NAME: WAKA
-      - name: Commit and push changes
-        run: >
-          git config --local user.email
-          "102756485+Chunnyluny@users.noreply.github.com"
+          COMMIT_MESSAGE: Update with Waka metrics
+          SECTION_NAME: WAKA Metrics
 
+      # Commit the changes to the README
+      - name: Commit and Push README Changes
+        run: |
+          git config --local user.email "102756485+Chunnyluny@users.noreply.github.com"
           git config --local user.name "Chunnyluny"
-
           git add README.md
-
-          git commit -m "update readme with waka and infos"
-
+          git commit -m "Refresh README with Waka metrics and other information"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

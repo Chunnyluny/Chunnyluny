@@ -60,11 +60,16 @@
      </div>
  <br>
    <div align="center">
-  <a href="https://github.com/chunnyluny">
+  <a href="https://github.com/Chunnyluny">
   <img height=160em alt= "Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D)" />
      </div>
  <br>
  <div align="center">
-    <a href="https://github.com/chunnyluny">
+    <a href="https://github.com/Chunnyluny">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
+ <div align="center">       
+   <!--START_SECTION:WAKA-->
+    
+   <!--END_SECTION:WAKA-->
+ </div>
 </details>

@@ -24,10 +24,23 @@
 </p>
 
 ## Repositories I have created
-{{-range recentRepos 4}}
+
+{{-range recentRepos 10}}
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 - {{ end }}
 
+### ⛏️ What I've been working on
+
+{{ range recentContributions 4 }}
+- [{{.Repo.Name}}]({{.Repo.URL}})
+{{- end }}
+
+#### 🎈 PRs
+
+{{- range recentPullRequests 4}}
+- **[{{.Title}}]({{.URL}})** - {{.Repo.Description}}
+{{- end}}
+  
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
 &emsp;

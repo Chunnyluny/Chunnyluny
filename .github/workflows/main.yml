@@ -1,38 +1,59 @@
-name: Work Stats README
+name: Combined Workflows
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
     - cron: "0 */2 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
- update-readme:
-   name: Update this repo's README with recent activity
-   runs-on: ubuntu-latest
-   permissions:
-     contents: write
-   steps:
-    - uses: actions/checkout@v3
-    - uses: athul/waka-readme@master
-    - run: |
+  update-readme:
+    name: updated waka-readme graph with new metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: "^1"
+
+      - name: Install Markscribe
+        run: |
           go install github.com/muesli/markscribe@master
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Markscribe
+        run: |
           markscribe ./templates/README.md.tpl > README.md
-      shell: bash
-      env:
-        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-      with:
-        WAKATIME_API_KEY:
-          ${{secrets.WAKATIME_API_KEY }}
+        shell: bash
+
+      - name: Run Waka-Readme
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 5
-          COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
+          COMMIT_MESSAGE: "updated waka-readme graph with new metrics"
           SECTION_NAME: WAKA
-          commit_message: "update activity"
-          branch: master
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: "102756485+Chunnyluny@users.noreply.github.com"
-          commit_author: readme-scribe 🤖 <"102756485+Chunnyluny@users.noreply.github.com">
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "102756485+Chunnyluny@users.noreply.github.com"
+          git config --local user.name "Chunnyluny"
+          git add README.md
+          git commit -m "update readme with waka and infos"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

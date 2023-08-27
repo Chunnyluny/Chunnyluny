@@ -4,38 +4,38 @@
 <div align="center">
 <a href="https://github.com/Chunnyluny/Chunnyluny/blob/Master/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta">
-  </a>
-  &emsp;
-  <a href="https://discord.gg/NjbW9RTQkA">
+</a>
+&emsp;
+<a href="https://discord.gg/NjbW9RTQkA">
     <img alt="Join my server" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
-  </a>
-  &emsp;
-  <a href="https://twitch.tv/chunnyluny">
+</a>
+&emsp;
+<a href="https://twitch.tv/chunnyluny">
     <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://www.reddit.com/user/Chunnyluny">
+&emsp;
+<a href="https://www.reddit.com/user/Chunnyluny">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/chunnyluny?style=for-the-badge&logo=reddit&color=magenta">
-  </a>
-  &emsp;
-  <a href="https://ko-fi.com/I2I8ND4C0">
+</a>
+&emsp;
+<a href="https://ko-fi.com/I2I8ND4C0">
     <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge" />
-  </a>
+</a>
 </p>
 
-## Repositories I have created
+### 👩‍💻 Repositories I created recently 🆕
 
-{{ range recentRepos 10 }}
+{{- range recentRepos 10 }}
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
-{{ end }}
+{{- end }}
 
-### ⛏️ What I've been working on
+### ⚒️ What I've been working on 🆒
 
 {{ range recentContributions 4 }}
 - [{{.Repo.Name}}]({{.Repo.URL}})
 {{ end }}
 
-#### 🎈 PRs
+### 🪢 Pull requests 🖥️
 
 {{ range recentPullRequests 4 }}
 - **[{{ .Title }}]({{ .URL }})** - {{ .Repo.Description }}
@@ -49,7 +49,7 @@
   <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
 </div>
 
-## About me
+## 🙋‍♀️ About me
 
 <p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things, which I enjoy doing.
 <p align="center">I enjoy company with people that share the same interests and hobbies. Not only that, but I started sewing and creative writing when I was 13 years old. Furthermore, I still enjoy these activities but gained more interests for writing code, making mods, and digital art.</p>

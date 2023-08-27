@@ -34,7 +34,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Generate or update the README using Markscribe
-   
+      - name: Run Markscribe
+        run: |
+          markscribe ./templates/README.md.tpl > README.md
+        shell: bash
       # Update the README with Waka-Readme metrics
       - name: Update README with Waka Metrics
         uses: athul/waka-readme@master

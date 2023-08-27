@@ -38,7 +38,7 @@ jobs:
         run: ls -al
       
       - name: Generate README using Markscribe
-        run: markscribe templates/README.md.tpl > README.md
+        run: markscribe templates/README.md.tpl
       
       - name: Display README content
         run: cat README.md

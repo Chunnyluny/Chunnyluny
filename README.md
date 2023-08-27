@@ -69,7 +69,18 @@
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
  <div align="center">       
    <!--START_SECTION:WAKA-->
-    
-   <!--END_SECTION:WAKA-->
+
+```txt
+From: 25 August 2023 - To: 26 August 2023
+
+Total Time: 1 hr 39 mins
+
+Markdown         1 hr 39 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.94 %
+XML              0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 %
+ActionScript 3   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.02 %
+GDScript         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 %
+```
+
+<!--END_SECTION:WAKA-->
  </div>
 </details>

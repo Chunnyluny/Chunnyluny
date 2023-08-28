@@ -4,31 +4,45 @@
 <div align="center">
 <a href="https://github.com/Chunnyluny/Chunnyluny/blob/Master/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta">
-  </a>
-  &emsp;
-  <a href="https://discord.gg/NjbW9RTQkA">
+</a>
+&emsp;
+<a href="https://discord.gg/NjbW9RTQkA">
     <img alt="Join my server" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
-  </a>
-  &emsp;
-  <a href="https://twitch.tv/chunnyluny">
+</a>
+&emsp;
+<a href="https://twitch.tv/chunnyluny">
     <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://www.reddit.com/user/Chunnyluny">
+&emsp;
+<a href="https://www.reddit.com/user/Chunnyluny">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/chunnyluny?style=for-the-badge&logo=reddit&color=magenta">
-  </a>
-  &emsp;
-  <a href="https://ko-fi.com/I2I8ND4C0">
+</a>
+&emsp;
+<a href="https://ko-fi.com/I2I8ND4C0">
     <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge" />
-  </a>
+</a>
 </p>
 
 ### 👩‍💻 Repositories I created recently 🆕
+- **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
+- **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
+- **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - RimWorld mod template including About.xml readme.md. For personal use, Use this repo as a template
+- **[Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)** - RimWorld troubleshooting guide for modded RimWorld
 
 ### ⚒️ What I've been working on 🆒
 
-### 🪢 Pull requests 🖥️
 
+- [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
+- [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
+- [Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)
+- [Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)
+
+### 🪢 Pull requests 🖥️
+- **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - compare fork with rimsort source, make changes on my fork, but sync it before you make the changes.
+- **[Update README.md](https://github.com/Chunnyluny/CLV-RimSort/pull/6)** - compare fork with rimsort source, make changes on my fork, but sync it before you make the changes.
+- **[pull my edits to main](https://github.com/RimSort/RimSort/pull/154)** - 
+- **[pull my edits to main](https://github.com/RimSort/RimSort/pull/153)** - 
+  
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
 &emsp;
@@ -70,11 +84,11 @@
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 25 August 2023 - To: 27 August 2023
+From: 25 August 2023 - To: 26 August 2023
 
-Total Time: 1 hr 53 mins
+Total Time: 1 hr 39 mins
 
-Markdown         1 hr 53 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.95 %
+Markdown         1 hr 39 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.94 %
 XML              0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 %
 ActionScript 3   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.02 %
 GDScript         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 %

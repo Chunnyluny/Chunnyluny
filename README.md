@@ -38,8 +38,8 @@
 - [Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)
 
 ### 🪢 Pull requests 🖥️
-- **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - compare fork with rimsort source, make changes on my fork, but sync it before you make the changes.
-- **[Update README.md](https://github.com/Chunnyluny/CLV-RimSort/pull/6)** - compare fork with rimsort source, make changes on my fork, but sync it before you make the changes.
+- **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
+- **[Update README.md](https://github.com/Chunnyluny/CLV-RimSort/pull/6)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
 - **[pull my edits to main](https://github.com/RimSort/RimSort/pull/154)** - 
 - **[pull my edits to main](https://github.com/RimSort/RimSort/pull/153)** - 
   

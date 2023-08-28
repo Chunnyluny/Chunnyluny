@@ -25,7 +25,7 @@
 
 ### 👩‍💻 Repositories I created recently 🆕
 
-{{- range recentRepos 10 }}
+{{- range recentRepos 4 }}
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 

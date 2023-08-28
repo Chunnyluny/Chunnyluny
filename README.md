@@ -52,10 +52,9 @@
 - [Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)
 
 ### 🪢 Pull requests 🖥️
+- **[Update README.md](https://github.com/RimSort/RimSort/pull/156)** - 
 - **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
 - **[Update README.md](https://github.com/Chunnyluny/CLV-RimSort/pull/6)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
-- **[pull my edits to main](https://github.com/RimSort/RimSort/pull/154)** - 
-- **[pull my edits to main](https://github.com/RimSort/RimSort/pull/153)** - 
   
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos

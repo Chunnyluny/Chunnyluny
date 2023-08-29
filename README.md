@@ -38,24 +38,35 @@
 </div>
 
 ### 👩‍💻 Repositories I created recently 🆕
+
 - **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
+
 - **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
+
 - **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - RimWorld mod template including About.xml readme.md. For personal use, Use this repo as a template
+
 - **[Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)** - RimWorld troubleshooting guide for modded RimWorld
 
 ### ⚒️ What I've been working on 🆒
+
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
+
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
+
 - [Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)
+
 - [Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)
 
 ### 🪢 Pull requests 🖥️
+
 - **[Update README.md](https://github.com/RimSort/RimSort/pull/156)** - 
+
 - **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
+
 - **[Update README.md](https://github.com/Chunnyluny/CLV-RimSort/pull/6)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
-  
+
 <h2 align="center">Currently learning to use</h2>
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos />
 &emsp;
    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
 &emsp;

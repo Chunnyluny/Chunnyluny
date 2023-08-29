@@ -43,7 +43,7 @@
 
 - **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
 
-- **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - RimWorld mod template including About.xml readme.md. For personal use, Use this repo as a template
+- **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - RimWorld mod template including About.xml and readme.md including dynamic buttons, use as a template.
 
 - **[Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)** - RimWorld troubleshooting guide for modded RimWorld
 
@@ -51,9 +51,9 @@
 
 
 
-- [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
-
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
+
+- [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
 
 - [Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)
 
@@ -107,7 +107,7 @@
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 25 August 2023 - To: 28 August 2023
+From: 25 August 2023 - To: 27 August 2023
 
 Total Time: 1 hr 53 mins
 

@@ -1,11 +1,12 @@
-name: Update README
+# @format
 
+name: Update README
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
-    - cron: "0 */2 * * *"
+    - cron: "0 22 * * 1-5"
+    - cron: "0 */6 * * 1-5"
 
 jobs:
   update-readme:
@@ -42,5 +43,5 @@ jobs:
           commit_message: "updating info with recent activity"
           branch: master
           commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author:  readme-scribe 🤖 <actions@github.com>
+          commit_user_email: "102756485+Chunnyluny@users.noreply.github.com"
+          commit_author: readme-scribe 🤖 <"102756485+Chunnyluny@users.noreply.github.com">

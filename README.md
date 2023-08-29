@@ -3,7 +3,7 @@
 <p align= "center">Hello there, I'm Chunnyluny and welcome to my GitHub profile!</p>
 <div align="center">
 <a href="https://github.com/Chunnyluny/Chunnyluny/blob/Master/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta" />
 </a>
 </div>
 &emsp;
@@ -16,7 +16,7 @@
 <div align="center">
 <a href="https://twitch.tv/chunnyluny">
     <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
+</a>
 </div>
 &emsp;
 <div align="center">
@@ -31,33 +31,44 @@
 </a>
 </div>
 &emsp;
-<div align="center">    
+<div align="center">
 <a href="https://wakatime.com/@a1ab2f08-f65b-4908-b266-913f3c87849a">
     <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge" />
 </a>
 </div>
 
 ### 👩‍💻 Repositories I created recently 🆕
+
 - **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
+
 - **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
+
 - **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - RimWorld mod template including About.xml readme.md. For personal use, Use this repo as a template
+
 - **[Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)** - RimWorld troubleshooting guide for modded RimWorld
 
 ### ⚒️ What I've been working on 🆒
 
 
+
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
+
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
+
 - [Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)
+
 - [Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)
 
 ### 🪢 Pull requests 🖥️
+
 - **[Update README.md](https://github.com/RimSort/RimSort/pull/156)** - 
+
 - **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
+
 - **[Update README.md](https://github.com/Chunnyluny/CLV-RimSort/pull/6)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
-  
+
 <h2 align="center">Currently learning to use</h2>
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos />
 &emsp;
    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
 &emsp;
@@ -93,11 +104,13 @@
  <div align="center">
     <a href="https://github.com/Chunnyluny">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
+ </div>
+ <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 25 August 2023 - To: 28 August 2023
+From: 25 August 2023 - To: 27 August 2023
 
 Total Time: 1 hr 53 mins
 

@@ -3,7 +3,7 @@
 <p align= "center">Hello there, I'm Chunnyluny and welcome to my GitHub profile!</p>
 <div align="center">
 <a href="https://github.com/Chunnyluny/Chunnyluny/blob/Master/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta" />
 </a>
 </div>
 &emsp;
@@ -16,7 +16,7 @@
 <div align="center">
 <a href="https://twitch.tv/chunnyluny">
     <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
+</a>
 </div>
 &emsp;
 <div align="center">
@@ -31,7 +31,7 @@
 </a>
 </div>
 &emsp;
-<div align="center">    
+<div align="center">
 <a href="https://wakatime.com/@a1ab2f08-f65b-4908-b266-913f3c87849a">
     <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge" />
 </a>
@@ -44,8 +44,6 @@
 - **[Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)** - RimWorld troubleshooting guide for modded RimWorld
 
 ### ⚒️ What I've been working on 🆒
-
-
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
 - [Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)
@@ -93,11 +91,13 @@
  <div align="center">
     <a href="https://github.com/Chunnyluny">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
+ </div>
+ <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 25 August 2023 - To: 28 August 2023
+From: 25 August 2023 - To: 27 August 2023
 
 Total Time: 1 hr 53 mins
 

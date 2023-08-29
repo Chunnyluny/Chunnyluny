@@ -49,6 +49,8 @@
 
 ### ⚒️ What I've been working on 🆒
 
+
+
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
 
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
@@ -62,8 +64,6 @@
 - **[Update README.md](https://github.com/RimSort/RimSort/pull/156)** - 
 
 - **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
-
-- **[Update README.md](https://github.com/Chunnyluny/CLV-RimSort/pull/6)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos />
@@ -108,7 +108,7 @@
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 25 August 2023 - To: 28 August 2023
+From: 25 August 2023 - To: 27 August 2023
 
 Total Time: 1 hr 53 mins
 

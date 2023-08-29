@@ -3,7 +3,7 @@
 <p align= "center">Hello there, I'm Chunnyluny and welcome to my GitHub profile!</p>
 <div align="center">
 <a href="https://github.com/Chunnyluny/Chunnyluny/blob/Master/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta" />
 </a>
 </div>
 &emsp;
@@ -16,7 +16,7 @@
 <div align="center">
 <a href="https://twitch.tv/chunnyluny">
     <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
+</a>
 </div>
 &emsp;
 <div align="center">
@@ -31,7 +31,7 @@
 </a>
 </div>
 &emsp;
-<div align="center">    
+<div align="center">
 <a href="https://wakatime.com/@a1ab2f08-f65b-4908-b266-913f3c87849a">
     <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge" />
 </a>
@@ -40,23 +40,26 @@
 ### 👩‍💻 Repositories I created recently 🆕
 
 {{- range recentRepos 4 }}
+
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
 ### ⚒️ What I've been working on 🆒
 
 {{ range recentContributions 4 }}
+
 - [{{.Repo.Name}}]({{.Repo.URL}})
 {{- end }}
 
 ### 🪢 Pull requests 🖥️
 
 {{- range recentPullRequests 4}}
+
 - **[{{.Title}}]({{.URL}})** - {{.Repo.Description}}
 {{- end}}
-  
+
 <h2 align="center">Currently learning to use</h2>
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos />
 &emsp;
    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
 &emsp;
@@ -92,6 +95,8 @@
  <div align="center">
     <a href="https://github.com/Chunnyluny">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
+ </div>
+ <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
 

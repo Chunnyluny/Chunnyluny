@@ -37,6 +37,8 @@
 </a>
 </div>
 
+---
+
 ### 👩‍💻 Repositories I created recently 🆕
 
 - **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
@@ -48,8 +50,6 @@
 - **[Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)** - RimWorld troubleshooting guide for modded RimWorld
 
 ### ⚒️ What I've been working on 🆒
-
-
 
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
 
@@ -66,14 +66,14 @@
 - **[Create Alpha/Edge Actions workflows](https://github.com/Chunnyluny/CLV-RimSort/pull/7)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
 
 <h2 align="center">Currently learning to use</h2>
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos />
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
 &emsp;
    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
 &emsp;
   <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
 </div>
 
-## 🙋‍♀️ About me
+<h2 align="center">🙋‍♀️ About me</h2>
 
 <p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things, which I enjoy doing.
 <p align="center">I enjoy company with people that share the same interests and hobbies. Not only that, but I started sewing and creative writing when I was 13 years old. Furthermore, I still enjoy these activities but gained more interests for writing code, making mods, and digital art.</p>

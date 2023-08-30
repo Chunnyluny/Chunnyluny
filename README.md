@@ -49,8 +49,6 @@
 
 ### ⚒️ What I've been working on 🆒
 
-
-
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
 
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
@@ -74,10 +72,10 @@
 
 <h2 align="center">🙋‍♀️ About me</h2>
 
-<p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things, which I enjoy doing.
+<p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things, which I enjoy doing.</p>
 <p align="center">I enjoy company with people that share the same interests and hobbies. Not only that, but I started sewing and creative writing when I was 13 years old. Furthermore, I still enjoy these activities but gained more interests for writing code, making mods, and digital art.</p>
 <p align="center">Games I play at the moment: Factorio and RimWorld. Games I own but used to play in the past: Apex Legends, Call of Duty War zone, Fortnite, Rocket League, Satisfactory and Sims 4.</p>
-<p align="center">You can find me on discord daily. It depends on my mood if I stream or not. If I’m not live on twitch, you find me daily on any of my discord voice channels. If you have similar hobbies and games, come and hang out or play some games together. Recently, I started making RimWorld mods, using GitHub. Welcome to my journey in writing and showing my creative side of me. I hope to inspire and teach you useful things, I want to become more confident about myself and want to learn to not get influenced by negative opinions of other people.</p>
+<p align="center">You can find me on discord daily. It depends on my mood if I stream or not. If I’m not live on twitch, you find me daily on any of my discord voice channels. If you have similar hobbies and games, come and hang out or play some games together. Recently, I started making RimWorld mods, using GitHub. Welcome to my journey in writing and showing my creative side of me. I hope to inspire and teach others useful things, I want to become more confident about myself and want to learn to not get influenced by negative opinions of other people.</p>
 <p align="center">Thank you for reading, Stay Chuned (pun intended)</p>
 
 <details>
@@ -86,21 +84,25 @@
     <div align="center">
      <a href="https://github.com/Chunnyluny">
       <img height="160em" alt="GitHub Summary Card Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical&hide_border=false" />
+    </a>
     </div>
  <br>
     <div align="center">
      <a href="https://github.com/Chunnyluny">
       <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+     </a>
      </div>
  <br>
    <div align="center">
   <a href="https://github.com/Chunnyluny">
   <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D)" />
-     </div>
+  </a>
+    </div>
  <br>
  <div align="center">
     <a href="https://github.com/Chunnyluny">
      <img height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
+ </a>
  </div>
  <br>
  <div align="center">

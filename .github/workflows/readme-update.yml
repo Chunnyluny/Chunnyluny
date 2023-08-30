@@ -5,8 +5,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * 1-5"
     - cron: "0 */6 * * 1-5"
+    - cron: "0 22 * * 1-5"
 
 jobs:
   update-readme:
@@ -33,7 +33,7 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 5
+          LANG_COUNT: 4
           COMMIT_MESSAGE: "Updated README with new metrics"
           SECTION_NAME: WAKA
       - uses: stefanzweifel/git-auto-commit-action@v4

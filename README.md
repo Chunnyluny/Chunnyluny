@@ -109,7 +109,6 @@
 ```txt
 From: 25 August 2023 - To: 29 August 2023
 
-
 Total Time: 8 hrs 10 mins
 
 YAML             3 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.22 %

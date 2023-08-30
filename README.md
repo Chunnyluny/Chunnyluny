@@ -2,39 +2,39 @@
 
 <p align= "center">Hello there, I'm Chunnyluny and welcome to my GitHub profile!</p>
 <div align="center">
-<a href="https://github.com/Chunnyluny/Chunnyluny/blob/master/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta" />
-</a>
+ <a href="https://github.com/Chunnyluny/Chunnyluny/blob/master/LICENSE">
+   <img alt="GitHub License" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta" />
+  </a>
 </div>
 &emsp;
 <div align="center">
-<a href="https://discord.gg/NjbW9RTQkA">
-    <img alt="Join my server" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
-</a>
+ <a href="https://discord.gg/NjbW9RTQkA" />
+   <img alt="Join my server" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
+ </a>
 </div>
 &emsp;
 <div align="center">
-<a href="https://twitch.tv/chunnyluny">
-    <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
+ <a href="https://twitch.tv/chunnyluny">
+  <img alt="Follow me" src="https://img.shields.io/badge/Twitch-magenta?style=for-the-badge&logo=twitch&logoColor=white" />
+ </a>
 </div>
 &emsp;
 <div align="center">
-<a href="https://www.reddit.com/user/Chunnyluny">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/chunnyluny?style=for-the-badge&logo=reddit&color=magenta" />
-</a>
+ <a href="https://www.reddit.com/user/Chunnyluny">
+  <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/chunnyluny?style=for-the-badge&logo=reddit&color=magenta" />
+ </a>
 </div>
 &emsp;
 <div align="center">
-<a href="https://ko-fi.com/I2I8ND4C0">
-    <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge" />
-</a>
+ <a href="https://ko-fi.com/I2I8ND4C0">
+  <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?style=for-the-badge&logo=ko-fi" />
+ </a>
 </div>
 &emsp;
 <div align="center">
-<a href="https://wakatime.com/@a1ab2f08-f65b-4908-b266-913f3c87849a">
-    <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge" />
-</a>
+ <a href="https://wakatime.com/@a1ab2f08-f65b-4908-b266-913f3c87849a">
+  <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge" />
+ </a>
 </div>
 
 ### 👩‍💻 Repositories I created recently 🆕
@@ -49,8 +49,6 @@
 
 ### ⚒️ What I've been working on 🆒
 
-
-
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
 
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
@@ -64,12 +62,11 @@
 - **[Update README.md](https://github.com/RimSort/RimSort/pull/156)** - 
 
 <h2 align="center">Currently learning to use</h2>
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
 &emsp;
-<div align="center">
-   <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
+   <img alt="gimp" src="https://img.shields.io/badge/gimp-magenta?style=for-the-badge&logo=gimp" />
 &emsp;
-  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
+  <img alt="Krita" src="https://img.shields.io/badge/Krita-magenta?style=for-the-badge&logo=krita" />
 </div>
 
 <h2 align="center">🙋‍♀️ About me</h2>

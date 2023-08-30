@@ -61,6 +61,8 @@
 
 ### 🪢 Pull requests 🖥️
 
+- **[Update README.md and added FAQ to explain where to go for feedback](https://github.com/Chunnyluny/DogApparel/pull/47)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
 - **[Update README.md](https://github.com/Chunnyluny/DogApparel/pull/46)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
@@ -107,14 +109,14 @@
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 25 August 2023 - To: 29 August 2023
+From: 25 August 2023 - To: 27 August 2023
 
-Total Time: 8 hrs 10 mins
+Total Time: 1 hr 53 mins
 
-YAML             3 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.22 %
-Markdown         3 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.08 %
-Smarty           46 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.54 %
-JSON             26 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.36 %
+Markdown         1 hr 53 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.95 %
+XML              0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 %
+ActionScript 3   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.02 %
+GDScript         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 %
 ```
 
 <!--END_SECTION:WAKA-->

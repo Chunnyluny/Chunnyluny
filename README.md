@@ -61,8 +61,6 @@
 
 ### 🪢 Pull requests 🖥️
 
-- **[Update README.md and added FAQ to explain where to go for feedback](https://github.com/Chunnyluny/DogApparel/pull/47)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;
@@ -105,17 +103,6 @@
  <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
-From: 25 August 2023 - To: 31 August 2023
-
-Total Time: 10 hrs 26 mins
-
-Markdown         4 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.68 %
-YAML             3 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.47 %
-Other            56 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.05 %
-Smarty           46 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %
-```
 
 <!--END_SECTION:WAKA-->
  </div>

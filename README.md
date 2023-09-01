@@ -61,8 +61,6 @@
 
 ### 🪢 Pull requests 🖥️
 
-- **[Update README.md and added FAQ to explain where to go for feedback](https://github.com/Chunnyluny/DogApparel/pull/47)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;

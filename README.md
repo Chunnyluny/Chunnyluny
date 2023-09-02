@@ -104,6 +104,17 @@
  <div align="center">
 <!--START_SECTION:WAKA-->
 
+```txt
+From: 25 August 2023 - To: 01 September 2023
+
+Total Time: 10 hrs 26 mins
+
+Markdown         4 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.68 %
+YAML             3 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.47 %
+Other            56 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.05 %
+Smarty           46 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %
+```
+
 <!--END_SECTION:WAKA-->
  </div>
 </details>

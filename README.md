@@ -61,13 +61,13 @@
 
 ### 🪢 Pull requests 🖥️
 
+- **[Update README.md with dynamic buttons, format indentation](https://github.com/Chunnyluny/DogApparel/pull/56)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
 - **[Issue templates](https://github.com/Chunnyluny/DogApparel/pull/54)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 - **[Add issue templates for bug or errors and enhancement/features (#51)](https://github.com/Chunnyluny/DogApparel/pull/53)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 - **[Add issue templates for bug or errors and enhancement/features](https://github.com/Chunnyluny/DogApparel/pull/51)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Create trunk-check.yaml](https://github.com/Chunnyluny/DogApparel/pull/49)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
@@ -111,17 +111,6 @@
  <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
-From: 25 August 2023 - To: 02 September 2023
-
-Total Time: 13 hrs 17 mins
-
-Markdown         4 hrs 32 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.15 %
-Other            3 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.55 %
-YAML             3 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.70 %
-Smarty           46 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.86 %
-```
 
 <!--END_SECTION:WAKA-->
  </div>

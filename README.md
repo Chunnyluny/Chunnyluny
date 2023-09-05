@@ -61,13 +61,13 @@
 
 ### 🪢 Pull requests 🖥️
 
+- **[Create cr.yml](https://github.com/Chunnyluny/DogApparel/pull/63)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
 - **[Create labeler.yml](https://github.com/Chunnyluny/DogApparel/pull/62)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 - **[Create pmd.yml to analyze xml code](https://github.com/Chunnyluny/DogApparel/pull/61)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 - **[Issue templates (#58)](https://github.com/Chunnyluny/DogApparel/pull/60)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[update the rephrase faq branch so I can then delete it.](https://github.com/Chunnyluny/DogApparel/pull/59)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
@@ -111,20 +111,6 @@
  <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
-From: 25 August 2023 - To: 04 September 2023
-
-Total Time: 19 hrs 18 mins
-
-Other            7 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.89 %
-Markdown         5 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.67 %
-YAML             3 hrs 32 mins   ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.37 %
-Smarty           1 hr 14 mins    ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.46 %
-JSON             31 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.73 %
-XML              27 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.37 %
-Ezhil            6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.53 %
-```
 
 <!--END_SECTION:WAKA-->
  </div>

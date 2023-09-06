@@ -39,13 +39,13 @@
 
 ### 👩‍💻 Repositories I created recently 🆕
 
+- **[Chunnyluny/.trunk](https://github.com/Chunnyluny/.trunk)** - Used by Trunk. Learn more at https://docs.trunk.io/check/github-integration
+
 - **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
 
 - **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
 
 - **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - RimWorld mod template, you can use this repo as template for your first mod.
-
-- **[Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)** - RimWorld troubleshooting guide for modded RimWorld
 
 ### ⚒️ What I've been working on 🆒
 
@@ -53,11 +53,11 @@
 
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
 
+- [Chunnyluny/.trunk](https://github.com/Chunnyluny/.trunk)
+
 - [Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)
 
 - [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
-
-- [Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)
 
 ### 🪢 Pull requests 🖥️
 
@@ -111,20 +111,6 @@
  <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
-From: 25 August 2023 - To: 05 September 2023
-
-Total Time: 21 hrs 48 mins
-
-Other            9 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.84 %
-Markdown         5 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.52 %
-YAML             4 hrs 35 mins   ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.04 %
-Smarty           1 hr 14 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.72 %
-JSON             31 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.42 %
-XML              27 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.11 %
-Ezhil            6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.47 %
-```
 
 <!--END_SECTION:WAKA-->
  </div>

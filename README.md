@@ -61,13 +61,13 @@
 
 ### 🪢 Pull requests 🖥️
 
+- **[Labeler config file](https://github.com/Chunnyluny/DogApparel/pull/67)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
+- **[Create labeler.yml](https://github.com/Chunnyluny/DogApparel/pull/66)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
+- **[Update labeler.yml](https://github.com/Chunnyluny/DogApparel/pull/65)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
 - **[Update cr.yml](https://github.com/Chunnyluny/DogApparel/pull/64)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Create dependabot.yml](https://github.com/Chunnyluny/CLV-RimSort/pull/11)** - make changes on my fork, but before doing pull requests make sure it is synced with RimSort/RimSort 
-
-- **[Create cr.yml](https://github.com/Chunnyluny/DogApparel/pull/63)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Create labeler.yml](https://github.com/Chunnyluny/DogApparel/pull/62)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
@@ -111,20 +111,6 @@
  <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
-From: 25 August 2023 - To: 05 September 2023
-
-Total Time: 20 hrs 49 mins
-
-Other            8 hrs 38 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.51 %
-Markdown         5 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.68 %
-YAML             4 hrs 18 mins   ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.67 %
-Smarty           1 hr 14 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.99 %
-JSON             31 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 %
-XML              27 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.21 %
-Ezhil            6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.49 %
-```
 
 <!--END_SECTION:WAKA-->
  </div>

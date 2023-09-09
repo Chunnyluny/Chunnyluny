@@ -39,13 +39,13 @@
 
 ### 👩‍💻 Repositories I created recently 🆕
 
-- **[Chunnyluny/.trunk](https://github.com/Chunnyluny/.trunk)** - Used by Trunk. Learn more at https://docs.trunk.io/check/github-integration
-
 - **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
 
 - **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
 
-- **[Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)** - RimWorld mod template, you can use this repo as template for your first mod.
+- **[Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
+- **[Chunnyluny/skills-github-pages](https://github.com/Chunnyluny/skills-github-pages)** - how to make github pages
 
 ### ⚒️ What I've been working on 🆒
 
@@ -53,21 +53,21 @@
 
 - [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
 
-- [Chunnyluny/.trunk](https://github.com/Chunnyluny/.trunk)
+- [Chunnyluny-RimWorld-Modding/.trunk](https://github.com/Chunnyluny-RimWorld-Modding/.trunk)
 
-- [Chunnyluny/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)
+- [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel)
 
-- [Chunnyluny/RimWorldMod](https://github.com/Chunnyluny/RimWorldMod)
+- [Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide)
 
 ### 🪢 Pull requests 🖥️
+
+- **[Update labeler.yml](https://github.com/Chunnyluny/DogApparel/pull/70)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 - **[I edited the about.xml and README](https://github.com/emipa606/TinyWorkbenchs/pull/1)** - 
 
 - **[Update .markdownlint.yaml](https://github.com/Chunnyluny/DogApparel/pull/69)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 - **[Delete .github/workflows/cr.yml](https://github.com/Chunnyluny/DogApparel/pull/68)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Labeler config file](https://github.com/Chunnyluny/DogApparel/pull/67)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:

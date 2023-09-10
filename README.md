@@ -43,15 +43,13 @@
 
 - **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
 
-- **[Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
 - **[Chunnyluny/skills-github-pages](https://github.com/Chunnyluny/skills-github-pages)** - how to make github pages
+
+- **[Chunnyluny/skills-introduction-to-github](https://github.com/Chunnyluny/skills-introduction-to-github)** - introduction to github
 
 ### ⚒️ What I've been working on 🆒
 
 
-
-- [Chunnyluny/DogApparel](https://github.com/Chunnyluny/DogApparel)
 
 - [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel)
 
@@ -59,15 +57,17 @@
 
 - [Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide)
 
+- [Chunnyluny-RimWorld-Modding/RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod)
+
 ### 🪢 Pull requests 🖥️
 
-- **[update the issue template branch to sync with master](https://github.com/Chunnyluny/DogApparel/pull/71)** - DogApparel, a mod that makes dogs more useful on the Rim!
+- **[update the issue template branch to sync with master](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/71)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
-- **[Issue templates](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/1)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Update labeler.yml](https://github.com/Chunnyluny/DogApparel/pull/70)** - DogApparel, a mod that makes dogs more useful on the Rim!
+- **[Update labeler.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/70)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 - **[I edited the about.xml and README](https://github.com/emipa606/TinyWorkbenchs/pull/1)** - 
+
+- **[Update .markdownlint.yaml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/69)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
@@ -111,20 +111,6 @@
  <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
-From: 25 August 2023 - To: 09 September 2023
-
-Total Time: 29 hrs 3 mins
-
-Other            12 hrs 27 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.89 %
-Markdown         6 hrs 6 mins    ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.01 %
-YAML             5 hrs 32 mins   ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.05 %
-XML              2 hrs 1 min     ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.99 %
-Smarty           1 hr 14 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.29 %
-JSON             1 hr 14 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.29 %
-Ezhil            6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 %
-```
 
 <!--END_SECTION:WAKA-->
  </div>

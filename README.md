@@ -61,13 +61,13 @@
 
 ### 🪢 Pull requests 🖥️
 
+- **[update auto-assign-github-action to be synced with master so it can be closed after that.](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/79)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
+- **[Update cache_trunk.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/78)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
+- **[Update labeler.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/77)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
 - **[Create auto-assign.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/75)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Update labeler.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/74)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Create cache_trunk.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/73)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[update the issue template branch to sync with master](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/71)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
@@ -111,20 +111,6 @@
  <br>
  <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
-From: 25 August 2023 - To: 10 September 2023
-
-Total Time: 29 hrs 59 mins
-
-Other            12 hrs 28 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.61 %
-Markdown         6 hrs 6 mins    ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.37 %
-YAML             5 hrs 48 mins   ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.38 %
-XML              2 hrs 26 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.16 %
-JSON             1 hr 26 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.79 %
-Smarty           1 hr 14 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.16 %
-Ezhil            6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.35 %
-```
 
 <!--END_SECTION:WAKA-->
  </div>

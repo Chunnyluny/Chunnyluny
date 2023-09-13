@@ -26,8 +26,14 @@
 </div>
 &emsp;
 <div align="center">
-<a href="https://ko-fi.com/I2I8ND4C0">
+<a href="https://ko-fi.com/Chunnyluny">
     <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge" />
+</a>
+</div>
+&emsp;
+<div align="center">
+<a href="https://join.slack.com/t/chunnylunyrim-7gz9374/shared_invite/zt-22x8mqqh1-ooMBenNDfIt2xtH985UDEA">
+    <img alt="Join my slack" src="https://img.shields.io/badge/join_me_on-slack-magenta?style=for-the-badge&logo=slack" />
 </a>
 </div>
 &emsp;
@@ -37,43 +43,23 @@
 </a>
 </div>
 
-### 👩‍💻 Repositories I created recently 🆕
-
-- **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
-
-- **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
-
-- **[Chunnyluny/skills-github-pages](https://github.com/Chunnyluny/skills-github-pages)** - how to make github pages
-
-- **[Chunnyluny/skills-introduction-to-github](https://github.com/Chunnyluny/skills-introduction-to-github)** - introduction to github
+<h2 align="center">Recent activity</h2>
 
 ### ⚒️ What I've been working on 🆒
 
-- [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel)
-
-- [Chunnyluny-RimWorld-Modding/.github](https://github.com/Chunnyluny-RimWorld-Modding/.github)
-
-- [Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide)
-
-- [Chunnyluny-RimWorld-Modding/RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod)
-
 ### 🪢 Pull requests 🖥️
-
-- **[fixing README.md to be updated in the profile folder instead of the root](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/4)** - information about this organisation
-
-- **[Delete profile directory since there is already a README.md in the root of .github](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/3)** - information about this organisation
-
-- **[update auto-assign-github-action to be synced with master so it can be closed after that.](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/79)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Update cache_trunk.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/78)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
 <h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;
 <div align="center">
-   <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
+<a href="https://www.gimp.org/downloads">
+    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta" />
+</a>
 &emsp;
-  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
+<a href="https://krita.org/en/download/krita-desktop">
+    <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta" />
+</a>
 </div>
 
 <h2 align="center">🙋‍♀️ About me</h2>
@@ -91,23 +77,18 @@
      <a href="https://github.com/Chunnyluny">
       <img height="160em" alt="GitHub Summary Card Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical&hide_border=false" />
     </div>
- <br>
+<br>
     <div align="center">
      <a href="https://github.com/Chunnyluny">
-      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-     </div>
- <br>
+      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=" />
+    </div>
+<br>
    <div align="center">
   <a href="https://github.com/Chunnyluny">
-  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D" />
-     </div>
- <br>
- <div align="center">
-    <a href="https://github.com/Chunnyluny">
-     <img height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
- </div>
- <br>
- <div align="center">
+  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?username=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D" />
+    </div>
+<br>
+    <div align="center">
 <!--START_SECTION:WAKA-->
 
 ```txt

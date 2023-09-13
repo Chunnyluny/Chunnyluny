@@ -39,7 +39,7 @@
 &emsp;
 <div align="center">
 <a href="https://wakatime.com/@a1ab2f08-f65b-4908-b266-913f3c87849a">
-    <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge&color=magenta" />
+    <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge" />
 </a>
 </div>
 

@@ -1,39 +1,35 @@
-version: 2
 updates:
-
-  # Maintain dependencies for GitHub Actions
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  # Maintain dependencies for Docker
+  - directory: /
+    package-ecosystem: docker
     schedule:
-      interval: "daily"
-
-  # Maintain dependencies for npm
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "daily"
+      day: monday
+      interval: weekly
 
   # Maintain dependencies for Composer
-  - package-ecosystem: "composer"
-    directory: "/"
+  - directory: /
+    package-ecosystem: composer
     schedule:
-      interval: "daily"
+      day: monday
+      interval: weekly
 
-  - package-ecosystem: "pip"
-    directory: "/"
+  # Maintain dependencies for npm
+  - directory: /
+    package-ecosystem: npm
     schedule:
-      interval: "daily"
-    allow:
-      # Allow only direct updates for
-      # Django and any packages starting "django"
-      - dependency-name: "django*"
-        dependency-type: "direct"
-      # Allow only production updates for Sphinx
-      - dependency-name: "sphinx"
-        dependency-type: "production"
-          # Include a list of updated dependencies
-      # with a prefix determined by the dependency group
-    commit-message:
-      prefix: "pip prod"
-      prefix-development: "pip dev"
-      include: "scope"
+      day: monday
+      interval: weekly
+
+  # Maintain dependencies for github-action
+  - directory: /
+    package-ecosystem: github-actions
+    schedule:
+      interval: daily
+
+  # Maintain dependencies for pip
+  - directory: /
+    package-ecosystem: pip
+    schedule:
+      day: monday
+      interval: weekly
+version: 2

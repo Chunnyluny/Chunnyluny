@@ -33,7 +33,7 @@
 &emsp;
 <div align="center">
 <a href="https://wakatime.com/@a1ab2f08-f65b-4908-b266-913f3c87849a">
-    <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge" />
+    <img alt="Total time coded since Aug 26 2023" src="https://wakatime.com/badge/user/a1ab2f08-f65b-4908-b266-913f3c87849a.svg?style=for-the-badge&color=magenta" />
 </a>
 </div>
 
@@ -48,8 +48,6 @@
 - **[Chunnyluny/skills-introduction-to-github](https://github.com/Chunnyluny/skills-introduction-to-github)** - introduction to github
 
 ### ⚒️ What I've been working on 🆒
-
-
 
 - [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel)
 
@@ -101,7 +99,7 @@
  <br>
    <div align="center">
   <a href="https://github.com/Chunnyluny">
-  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D)" />
+  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D" />
      </div>
  <br>
  <div align="center">

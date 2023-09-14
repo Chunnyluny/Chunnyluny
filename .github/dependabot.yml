@@ -24,8 +24,9 @@ updates:
   - directory: /
     package-ecosystem: github-actions
     schedule:
-      interval: daily
-
+      day: monday
+      interval: weekly
+  
   # Maintain dependencies for pip
   - directory: /
     package-ecosystem: pip

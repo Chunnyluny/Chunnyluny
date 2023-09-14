@@ -1,6 +1,6 @@
-<h1 align= "center">Welcome to my GitHub profile</h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
-<p align= "center">Hello there, I'm Chunnyluny and welcome to my GitHub profile!</p>
+<p align="center">Hello there, I'm Chunnyluny and welcome to my GitHub profile!</p>
 <div align="center">
 <a href="https://github.com/Chunnyluny/Chunnyluny/blob/master/LICENSE">
     <img alt="GitHub License" src="https://img.shields.io/github/license/Chunnyluny/Chunnyluny?style=for-the-badge&logo=github&color=magenta" />
@@ -26,8 +26,14 @@
 </div>
 &emsp;
 <div align="center">
-<a href="https://ko-fi.com/I2I8ND4C0">
+<a href="https://ko-fi.com/Chunnyluny">
     <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge" />
+</a>
+</div>
+&emsp;
+<div align="center">
+<a href="https://join.slack.com/t/chunnylunyrim-7gz9374/shared_invite/zt-22x8mqqh1-ooMBenNDfIt2xtH985UDEA">
+    <img alt="Join my slack" src="https://img.shields.io/badge/join_me_on-slack-magenta?style=for-the-badge&logo=slack" />
 </a>
 </div>
 &emsp;
@@ -37,54 +43,28 @@
 </a>
 </div>
 
-### 👩‍💻 Repositories I created recently 🆕
-
-- **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
-
-- **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
-
-- **[Chunnyluny/skills-github-pages](https://github.com/Chunnyluny/skills-github-pages)** - how to make github pages
-
-- **[Chunnyluny/skills-introduction-to-github](https://github.com/Chunnyluny/skills-introduction-to-github)** - introduction to github
-
 ### ⚒️ What I've been working on 🆒
-
-
-
-- [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel)
-
-- [Chunnyluny-RimWorld-Modding/.github](https://github.com/Chunnyluny-RimWorld-Modding/.github)
-
-- [Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide)
-
-- [Chunnyluny-RimWorld-Modding/RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod)
 
 ### 🪢 Pull requests 🖥️
 
-- **[fixing README.md to be updated in the profile folder instead of the root](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/4)** - information about this organisation
-
-- **[Delete profile directory since there is already a README.md in the root of .github](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/3)** - information about this organisation
-
-- **[update auto-assign-github-action to be synced with master so it can be closed after that.](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/79)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-- **[Update cache_trunk.yml](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/78)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
 <h2 align="center">Currently learning to use</h2>
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
+<p align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos</p>
 &emsp;
-<div align="center">
-   <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
+<a href="https://www.gimp.org/downloads">
+    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta" />
+</a>
 &emsp;
-  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
-</div>
+<a href="https://krita.org/en/download/krita-desktop">
+   <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta" />
+</a>
 
 <h2 align="center">🙋‍♀️ About me</h2>
 
-<p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things, which I enjoy doing.
-<p align="center">I enjoy company with people that share the same interests and hobbies. Not only that, but I started sewing and creative writing when I was 13 years old. Furthermore, I still enjoy these activities but gained more interests for writing code, making mods, and digital art.</p>
-<p align="center">Games I play at the moment: Factorio and RimWorld. Games I own but used to play in the past: Apex Legends, Call of Duty War zone, Fortnite, Rocket League, Satisfactory and Sims 4.</p>
-<p align="center">You can find me on discord daily. It depends on my mood if I stream or not. If I’m not live on twitch, you find me daily on any of my discord voice channels. If you have similar hobbies and games, come and hang out or play some games together. Recently, I started making RimWorld mods, using GitHub. Welcome to my journey in writing and showing my creative side of me. I hope to inspire and teach you useful things, I want to become more confident about myself and want to learn to not get influenced by negative opinions of other people.</p>
-<p align="center">Thank you for reading, Stay Chuned (pun intended)</p>
+<p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things.
+<p align="center">I started sewing and creative writing when I was 13 years old, I still enjoy these activities but gained more interests for writing code, making mods and digital art.</p>
+<p align="center">Games I play at the moment: Factorio and RimWorld.</p>
+<p align="center">You can find me on discord daily. Recently, I started making RimWorld mods, using GitHub. Welcome to my journey in writing and showing my creative side of me. I hope to inspire and teach you useful things, I want to become more confident about myself and want to learn to not get influenced by negative opinions of other people.</p>
+<p align="center">Thank you for reading, stay Chuned (pun intended)</p>
 
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>
@@ -92,24 +72,22 @@
     <div align="center">
      <a href="https://github.com/Chunnyluny">
       <img height="160em" alt="GitHub Summary Card Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical&hide_border=false" />
+     </a>
     </div>
- <br>
+<br>
     <div align="center">
      <a href="https://github.com/Chunnyluny">
-      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-     </div>
- <br>
+      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+     </a>
+    </div>
+<br>
    <div align="center">
-  <a href="https://github.com/Chunnyluny">
-  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D)" />
-     </div>
- <br>
- <div align="center">
     <a href="https://github.com/Chunnyluny">
-     <img height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
- </div>
- <br>
- <div align="center">
+     <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?username=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D" />
+    </a>
+   </div>
+<br>
+
 <!--START_SECTION:WAKA-->
 
 ```txt
@@ -127,5 +105,4 @@ Ezhil            6 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:WAKA-->
- </div>
 </details>

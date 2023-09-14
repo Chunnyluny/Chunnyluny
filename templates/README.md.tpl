@@ -26,8 +26,14 @@
 </div>
 &emsp;
 <div align="center">
-<a href="https://ko-fi.com/I2I8ND4C0">
+<a href="https://ko-fi.com/Chunnyluny">
     <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?logo=ko-fi&style=for-the-badge" />
+</a>
+</div>
+&emsp;
+<div align="center">
+<a href="https://join.slack.com/t/chunnylunyrim-7gz9374/shared_invite/zt-22x8mqqh1-ooMBenNDfIt2xtH985UDEA">
+    <img alt="Join my slack" src="https://img.shields.io/badge/join_me_on-slack-magenta?style=for-the-badge&logo=slack" />
 </a>
 </div>
 &emsp;
@@ -37,23 +43,16 @@
 </a>
 </div>
 
-### 👩‍💻 Repositories I created recently 🆕
-
-{{- range recentRepos 4 }}
-
-- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
-
 ### ⚒️ What I've been working on 🆒
 
 {{ range recentContributions 4 }}
 
-- [{{.Repo.Name}}]({{.Repo.URL}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end }}
 
 ### 🪢 Pull requests 🖥️
 
-{{- range recentPullRequests 4}}
+{{ range recentPullRequests 4 }}
 
 - **[{{.Title}}]({{.URL}})** - {{.Repo.Description}}
 {{- end}}
@@ -62,9 +61,13 @@
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;
 <div align="center">
-   <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta"/>
+<a href="https://www.gimp.org/downloads">
+    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta" />
+</a>
 &emsp;
-  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta"/>
+<a href="https://krita.org/en/download/krita-desktop">
+    <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta" />
+</a>
 </div>
 
 <h2 align="center">🙋‍♀️ About me</h2>
@@ -82,23 +85,18 @@
      <a href="https://github.com/Chunnyluny">
       <img height="160em" alt="GitHub Summary Card Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical&hide_border=false" />
     </div>
- <br>
+<br>
     <div align="center">
      <a href="https://github.com/Chunnyluny">
-      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-     </div>
- <br>
+      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=" />
+    </div>
+<br>
    <div align="center">
   <a href="https://github.com/Chunnyluny">
-  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D)" />
-     </div>
- <br>
- <div align="center">
-    <a href="https://github.com/Chunnyluny">
-     <img height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunnyluny&layout=compact&langs_count=3&theme=radical&hide_border=false" />
- </div>
- <br>
- <div align="center">
+  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?username=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D" />
+    </div>
+<br>
+  <div align="center">
 <!--START_SECTION:WAKA-->
 
 <!--END_SECTION:WAKA-->

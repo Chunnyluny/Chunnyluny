@@ -26,7 +26,7 @@ updates:
     schedule:
       day: monday
       interval: weekly
-
+  
   # Maintain dependencies for pip
   - directory: /
     package-ecosystem: pip

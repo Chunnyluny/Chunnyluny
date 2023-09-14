@@ -47,7 +47,7 @@
 
 ### ⚒️ What I've been working on 🆒
 
-{{ - range recentContributions 4 }}
+{{  range recentContributions 4 }}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end }}

@@ -109,5 +109,11 @@
             "multiline": true
         }
     ],
-    "editor.fontSize": 12
+    "editor.fontSize": 12,
+    "trunk.inlineDecoratorsForAllExtensions": true,
+    "trunk.trunkGrayOutNonBlockingIssues": true,
+    "apexPMD.enableCache": true,
+    "apexPMD.runOnFileOpen": true,
+    "apexPMD.runOnFileChange": true,
+    "codeium.aggressiveShutdown": true
 }

@@ -108,5 +108,6 @@
             "type": "text",
             "multiline": true
         }
-    ]
+    ],
+    "editor.fontSize": 12
 }

@@ -45,30 +45,65 @@
 
 ### ✍️ My recently created repositories 🆕
 
+
+Name: Chunnyluny/skills-communicate-using-markdown
+Description: learning to use markdown syntax
+URL: https://github.com/Chunnyluny/skills-communicate-using-markdown
+Stars: 0
+
+Name: Chunnyluny/hello-world
+Description: sandbox repo to understand github
+URL: https://github.com/Chunnyluny/hello-world
+Stars: 0
+
+Name: Chunnyluny/skills-github-pages
+Description: how to make github pages
+URL: https://github.com/Chunnyluny/skills-github-pages
+Stars: 0
+
+Name: Chunnyluny/skills-introduction-to-github
+Description: introduction to github
+URL: https://github.com/Chunnyluny/skills-introduction-to-github
+Stars: 0
+
+
 ### ⚒️ My recent contributions 🆒
 
-- [Chunnyluny-RimWorld-Modding/.github](https://github.com/Chunnyluny-RimWorld-Modding/.github) - information about this organisation
 
-- [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel) - DogApparel, a mod that makes dogs more useful on the Rim!
+Name: Chunnyluny-RimWorld-Modding/.github
+Description: information about this organisation
+URL: https://github.com/Chunnyluny-RimWorld-Modding/.github
+Occurred: 2 days ago
 
-- [Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide) - RimWorld troubleshooting guide for modded RimWorld
+Name: Chunnyluny-RimWorld-Modding/DogApparel
+Description: DogApparel, a mod that makes dogs more useful on the Rim!
+URL: https://github.com/Chunnyluny-RimWorld-Modding/DogApparel
+Occurred: 3 days ago
 
-- [Chunnyluny-RimWorld-Modding/RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod) - RimWorld mod template, you can use this repo as a template for your first mod.
+Name: Chunnyluny-RimWorld-Modding/troubleshootingguide
+Description: RimWorld troubleshooting guide for modded RimWorld
+URL: https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide
+Occurred: 1 week ago
+
+Name: Chunnyluny-RimWorld-Modding/RimWorldMod
+Description: RimWorld mod template, you can use this repo as template for your first mod.
+URL: https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod
+Occurred: 1 week ago
+
 
 ### 🪢 My recent pull requests 🖥️
 
-- **[fixing README.md to be updated in the profile folder instead of the root](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/4)** - information about this organisation
 
-- **[Delete profile directory since there is already a README.md in the root of .github](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/3)** - information about this organisation
 
-- **[update auto-assign-github-action to be synced with master so it can be closed after that.](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/79)** - DogApparel, a mod that makes dogs more useful on the Rim!
-
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos</div>
-<div align="center">
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
+&emsp;
+<div>
 <a href="https://www.gimp.org/downloads">
     <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta" />
 </a>
+</div>
 &emsp;
+<div>
 <a href="https://krita.org/en/download/krita-desktop">
     <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta" />
 </a>
@@ -101,22 +136,8 @@ Welcome to my journey in writing and showing my creative side. I hope to inspire
    </div>
 <br>
    <div align="center">
-<!--START_SECTION:WAKA-->
 
-```txt
-From: 25 August 2023 - To: 13 September 2023
 
-Total Time: 36 hrs 30 mins
 
-Other            12 hrs 28 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.18 %
-Markdown         8 hrs 56 mins   ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.49 %
-YAML             7 hrs 55 mins   ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.71 %
-Smarty           2 hrs 37 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.17 %
-XML              2 hrs 26 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.70 %
-JSON             1 hr 38 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.50 %
-Ezhil            6 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.29 %
-```
-
-<!--END_SECTION:WAKA-->
    </div>
 </details>

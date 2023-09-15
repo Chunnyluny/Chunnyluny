@@ -16,13 +16,13 @@ jobs:
         with:
           go-version: ^1
       - run: |
-          go install muesli/readme-scribe@v0.1
+         go install github.com/muesli/markscribe@master
         shell: bash
 
       - name: Generate & update markdown content
         uses: muesli/readme-scribe@v0.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         with:
           template: templates/README.md.tpl
           writeTo: "README.md"

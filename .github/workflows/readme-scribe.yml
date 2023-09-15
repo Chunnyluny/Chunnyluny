@@ -1,11 +1,12 @@
-name: Update README
+name: readme-scribe
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: 0 */2 * * *
+    - cron: 0 */1 * * *
+
 jobs:
-  update-readme:
+  markscribe:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,28 +16,23 @@ jobs:
         with:
           go-version: ^1
       - run: |
-          go install github.com/muesli/markscribe@master
-          markscribe ./templates/README.md.tpl > README.md
+          go install muesli/readme-scribe@v0.1
         shell: bash
+
+      - name: Generate & update markdown content
+        uses: muesli/readme-scribe@v0.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          template: templates/README.md.tpl
+          writeTo: "README.md"
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: updating README with recent activity
+          commit_message: Update generated README
           branch: master
           commit_user_name: readme-scribe 🤖
           commit_user_email: 102756485+Chunnyluny@users.noreply.github.com
           commit_author: readme-scribe 🤖 <"102756485+Chunnyluny@users.noreply.github.com">
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 7
-          COMMIT_MESSAGE: Updating README with new metrics
-          SECTION_NAME: WAKA

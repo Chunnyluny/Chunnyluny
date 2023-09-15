@@ -1,0 +1,29 @@
+name: Waka Readme
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */2 * * *
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@v0.2.4
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: WAKA
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          CODE_LANG: ALL
+          LANG_COUNT: 7
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Chunnyluny
+          AUTHOR_EMAIL: 102756485+Chunnyluny@users.noreply.github.com

@@ -45,12 +45,12 @@
 
 ### ✍️ My recently created repositories 🆕
 {{range recentRepos 4}}
-- [{{.Name}}]({{.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Name}}]({{.URL}}) - {{.Description}} ({{humanize .OccurredAt}})
 {{end}}
 
 ### ⚒️ My recent contributions 🆒
 {{range recentContributions 4}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{humanize .OccurredAt}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{end}}
 
 ### 🪢 My recent pull requests 🖥️

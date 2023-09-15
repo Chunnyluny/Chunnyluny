@@ -43,7 +43,9 @@
 </a>
 </div>
 
-### ⚒️ What I've been working on 🆒
+### ✍️ My recently created repositories 🆕
+
+### ⚒️ My recent contributions 🆒
 
 - [Chunnyluny-RimWorld-Modding/.github](https://github.com/Chunnyluny-RimWorld-Modding/.github) - information about this organisation
 
@@ -53,7 +55,7 @@
 
 - [Chunnyluny-RimWorld-Modding/RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod) - RimWorld mod template, you can use this repo as a template for your first mod.
 
-### 🪢 Pull requests 🖥️
+### 🪢 My recent pull requests 🖥️
 
 - **[fixing README.md to be updated in the profile folder instead of the root](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/4)** - information about this organisation
 
@@ -61,7 +63,6 @@
 
 - **[update auto-assign-github-action to be synced with master so it can be closed after that.](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/79)** - DogApparel, a mod that makes dogs more useful on the Rim!
 
-<h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos</div>
 <div align="center">
 <a href="https://www.gimp.org/downloads">
@@ -75,12 +76,8 @@
 
 <h2 align="center">🙋‍♀️ About me</h2>
 
-<p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things, which I enjoy doing.</p>
-<p align="center">I started sewing and creative writing when I was 13 years old. I still enjoy these activities but gained more interests in writing code, making mods, and digital art.</p>
-<p align="center">Games I play at the moment: Factorio and RimWorld. Games I own but used to play in the past: Apex Legends, Call of Duty Warzone, Fortnite, Rocket League, Satisfactory, and Sims 4.</p>
-<p align="center">You can find me on Discord daily. It depends on my mood if I stream or not. If I’m not live on Twitch, you can find me daily on any of my Discord voice channels. Recently, I started making RimWorld mods using GitHub.</p>
-<p align="center">Welcome to my journey in writing and showing my creative side. I hope to inspire and teach you useful things. I want to become more confident about myself and learn not to get influenced by negative opinions of other people.</p>
-<p align="center">Stay Chuned (pun intended).</p>
+<p align="center">I recently started to learn how to use GitHub and want to get better at coding. Recently, I started making RimWorld mods using GitHub.
+Welcome to my journey in writing and showing my creative side. I hope to inspire and teach you useful things. I want to inspire others and learn a lot of coding languages.<p align="center">Stay Chuned (pun intended).</p>
 
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>

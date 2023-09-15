@@ -43,21 +43,36 @@
 </a>
 </div>
 
-### ⚒️ What I've been working on 🆒
+### ✍️ My recently created repositories 🆕
 
-{{ range recentContributions 4 }}
+{{range recentRepos 4}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}}
+Stars: {{.Stargazers}}
+{{end}}
 
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
-{{- end }}
+### ⚒️ My recent contributions 🆒
 
-### 🪢 Pull requests 🖥️
+{{range recentContributions 4}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}}
+Occurred: {{humanize .OccurredAt}}
+{{end}}
 
-{{ range recentPullRequests 4 }}
+### 🪢 My recent pull requests 🖥️
 
-- **[{{.Title}}]({{.URL}})** - {{.Repo.Description}}
-{{- end}}
+{{range recentPullRequests 4}}
+Title: {{.Title}}
+URL: {{.URL}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
+{{end}}
 
-<h2 align="center">Currently learning to use</h2>
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;
 <div>
@@ -74,12 +89,8 @@
 
 <h2 align="center">🙋‍♀️ About me</h2>
 
-<p align="center">First, let me introduce myself: I’m a 27 years old female gamer and moved in with my boyfriend in July 2022. The 10th of July is my birthday. I like playing PC games and being creative; I like to paint, draw, create digital art, make clothes and sew things, which I enjoy doing.</p>
-<p align="center">I started sewing and creative writing when I was 13 years old. I still enjoy these activities but gained more interests in writing code, making mods, and digital art.</p>
-<p align="center">Games I play at the moment: Factorio and RimWorld. Games I own but used to play in the past: Apex Legends, Call of Duty Warzone, Fortnite, Rocket League, Satisfactory, and Sims 4.</p>
-<p align="center">You can find me on Discord daily. It depends on my mood if I stream or not. If I’m not live on Twitch, you can find me daily on any of my Discord voice channels. Recently, I started making RimWorld mods using GitHub.</p>
-<p align="center">Welcome to my journey in writing and showing my creative side. I hope to inspire and teach you useful things. I want to become more confident about myself and learn not to get influenced by negative opinions of other people.</p>
-<p align="center">Stay Chuned (pun intended).</p>
+<p align="center">I recently started to learn how to use GitHub and want to get better at coding. Recently, I started making RimWorld mods using GitHub.
+Welcome to my journey in writing and showing my creative side. I hope to inspire and teach you useful things. I want to inspire others and learn a lot of coding languages.<p align="center">Stay Chuned (pun intended).</p>
 
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>
@@ -104,8 +115,6 @@
 <br>
    <div align="center">
 <!--START_SECTION:WAKA-->
-
-```txt
 
 <!--END_SECTION:WAKA-->
    </div>

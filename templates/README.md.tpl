@@ -44,33 +44,18 @@
 </div>
 
 ### ✍️ My recently created repositories 🆕
-
 {{range recentRepos 4}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
-Stars: {{.Stargazers}}
+- [{{.Name}}]({{.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{end}}
 
 ### ⚒️ My recent contributions 🆒
-
 {{range recentContributions 4}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}}
-Occurred: {{humanize .OccurredAt}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{humanize .OccurredAt}}
 {{end}}
 
 ### 🪢 My recent pull requests 🖥️
-
 {{range recentPullRequests 4}}
-Title: {{.Title}}
-URL: {{.URL}}
-State: {{.State}}
-CreatedAt: {{humanize .CreatedAt}}
-Repository name: {{.Repo.Name}}
-Repository description: {{.Repo.Description}}
-Repository URL: {{.Repo.URL}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{end}}
 
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:

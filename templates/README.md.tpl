@@ -1,11 +1,11 @@
 ### ✍️ My recently created repositories 🆕
 {{range recentRepos 4}}
-- [{{.Name}}]({{.URL}}) - {{.Description}} ({{humanize .OccurredAt}})
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{end}}
 
 ### ⚒️ My recent contributions 🆒
 {{range recentContributions 4}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Description}}
 {{end}}
 
 ### 🪢 My recent pull requests 🖥️
@@ -32,6 +32,10 @@
 <p align="center">I recently started to learn how to use GitHub and want to get better at coding. Recently, I started making RimWorld mods using GitHub.
 Welcome to my journey in writing and showing my creative side. I hope to inspire and teach you useful things. I want to inspire others and learn a lot of coding languages.<p align="center">Stay Chuned (pun intended).</p>
 
+<!--START_SECTION:WAKA-->
+
+<!--END_SECTION:WAKA-->
+
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>
    <p align="center">📍GitHub Profile Summary Card Graph</p>
@@ -51,11 +55,5 @@ Welcome to my journey in writing and showing my creative side. I hope to inspire
     <a href="https://git.io/streak-stats">
      <img height="160em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Chunnyluny&amp;theme=radical&amp;date_format=j%20M%5B%20Y%5D" />
     </a>
-   </div>
-<br>
-   <div align="center">
-<!--START_SECTION:WAKA-->
-
-<!--END_SECTION:WAKA-->
    </div>
 </details>

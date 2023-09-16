@@ -74,8 +74,6 @@
 <!--START_SECTION:WAKA-->
 <!--END_SECTION:WAKA-->
 
----
-
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>
   <p align="center">📍GitHub Profile Summary Card Graph</p>

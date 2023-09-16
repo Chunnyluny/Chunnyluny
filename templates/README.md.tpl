@@ -45,26 +45,6 @@
 
 ---
 
-### ✍️ My recently created repositories 🆕
-
-{{ range recentRepos 4 }}
-- **[{{ .Name }}]({{ .URL }})** - {{ .Description }} - {{ . }}
-{{ end }}
-
-### ⚒️ My recent contributions 🆒
-
-{{ range recentContributions 4 }}
-- [{{.Repo.Name}}]({{.Repo.URL}})
-{{ end }}
-
-### 🪢 My recent pull requests 🖥️
-
-{{ range recentPullRequests 4 }}
-- **[{{.Title}}]({{.URL}})** - {{.Repo.Description}}
-{{ end }}
-
----
-
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;
 <div>

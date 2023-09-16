@@ -43,30 +43,53 @@
 </a>
 </div>
 
+---
+
 ### ✍️ My recently created repositories 🆕
+
+- **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
+
+- **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
+
+- **[Chunnyluny/skills-github-pages](https://github.com/Chunnyluny/skills-github-pages)** - how to make github pages
+
+- **[Chunnyluny/skills-introduction-to-github](https://github.com/Chunnyluny/skills-introduction-to-github)** - introduction to github
 
 ### ⚒️ My recent contributions 🆒
 
+- [Chunnyluny-RimWorld-Modding/.github](https://github.com/Chunnyluny-RimWorld-Modding/.github) - information about this organisation
+
+- [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel) - DogApparel, a mod that makes dogs more useful on the Rim!
+
+- [Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide) - RimWorld troubleshooting guide for modded RimWorld
+
+- [Chunnyluny-RimWorld-Modding/RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod) - RimWorld mod template, you can use this repo as a template for your first mod.
+
 ### 🪢 My recent pull requests 🖥️
 
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
-&emsp;
-<div>
-<a href="https://www.gimp.org/downloads">
-    <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta" />
-</a>
-</div>
-&emsp;
-<div>
-<a href="https://krita.org/en/download/krita-desktop">
-    <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta" />
-</a>
-</div>
+- **[fixing README.md to be updated in the profile folder instead of the root](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/4)** - information about this organisation
+
+- **[Delete profile directory since there is already a README.md in the root of .github](https://github.com/Chunnyluny-RimWorld-Modding/.github/pull/3)** - information about this organisation
+
+- **[update auto-assign-github-action to be synced with master so it can be closed after that.](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/pull/79)** - DogApparel, a mod that makes dogs more useful on the Rim!
+
+---
+
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:</div>
+<p align="center">
+    <a href="https://www.gimp.org/downloads">
+        <img alt="gimp" src="https://img.shields.io/badge/gimp-203759?style=for-the-badge&logo=gimp&logoColor=magenta" />
+    </a>
+    &emsp;
+    <a href="https://krita.org/en/download/krita-desktop">
+        <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=magenta" />
+    </a>
+</p>
 
 <h2 align="center">🙋‍♀️ About me</h2>
+<p align="center">I'm passionate about coding and constantly expanding my skills. Recently, I've been using GitHub to create RimWorld mods, allowing me to showcase my creativity through code. Follow along as I share my experiences, inspire others, and delve into various coding languages.</p>
 
-<p align="center">I recently started to learn how to use GitHub and want to get better at coding. Recently, I started making RimWorld mods using GitHub.
-Welcome to my journey in writing and showing my creative side. I hope to inspire and teach you useful things. I want to inspire others and learn a lot of coding languages.<p align="center">Stay Chuned (pun intended).</p>
+<h3 align="center">📢 Stay Chuned!</h3>
 
 <!--START_SECTION:WAKA-->
 
@@ -74,22 +97,22 @@ Welcome to my journey in writing and showing my creative side. I hope to inspire
 
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>
-   <p align="center">📍GitHub Profile Summary Card Graph</p>
-    <div align="center">
-     <a href="https://github.com/Chunnyluny">
+  <p align="center">📍GitHub Profile Summary Card Graph</p>
+  <div align="center">
+    <a href="https://github.com/Chunnyluny">
       <img height="160em" alt="GitHub Summary Card Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical&hide_border=false" />
-     </a>
-    </div>
-<br>
-    <div align="center">
-     <a href="https://github.com/Chunnyluny">
-      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=" />
-     </a>
-    </div>
-<br>
-   <div align="center">
-    <a href="https://git.io/streak-stats">
-     <img height="160em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Chunnyluny&amp;theme=radical&amp;date_format=j%20M%5B%20Y%5D" />
     </a>
-   </div>
+  </div>
+  <br>
+  <div align="center">
+    <a href="https://github.com/Chunnyluny">
+      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=" />
+    </a>
+  </div>
+  <br>
+  <div align="center">
+    <a href="https://git.io/streak-stats">
+      <img height="160em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Chunnyluny&amp;theme=radical&amp;date_format=j%20M%5B%20Y%5D" />
+    </a>
+  </div>
 </details>

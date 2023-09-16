@@ -92,8 +92,8 @@
 
 <h3 align="center">📢 Stay Chuned!</h3>
 
-
-
+<!--START_SECTION:WAKA-->
+<!--END_SECTION:WAKA-->
 
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>

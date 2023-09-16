@@ -16,7 +16,7 @@ jobs:
         with:
           go-version: ^1
       - run: |
-         go install github.com/muesli/markscribe@master
+          go install github.com/muesli/markscribe@master
         shell: bash
 
       - name: Generate & update markdown content

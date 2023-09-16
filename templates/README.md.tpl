@@ -43,6 +43,8 @@
 </a>
 </div>
 
+---  
+
 ### ✍️ My recently created repositories 🆕
 
 {{ range recentRepos 4 }}
@@ -60,6 +62,8 @@
 {{ range recentPullRequests 4 }}
 - **[{{.Title}}]({{.URL}})** - {{.Repo.Description}}
 {{ end }}
+
+---
 
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;
@@ -79,7 +83,6 @@
 <h3 align="center">📢 Stay Chuned!</h3>
 
 <!--START_SECTION:WAKA-->
-
 <!--END_SECTION:WAKA-->
 
 <details>

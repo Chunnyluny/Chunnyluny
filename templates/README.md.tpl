@@ -76,7 +76,7 @@
 <h2 align="center">🙋‍♀️ About me</h2>
 <p align="center">I'm passionate about coding and constantly expanding my skills. Recently, I've been using GitHub to create RimWorld mods, allowing me to showcase my creativity through code. Follow along as I share my experiences, inspire others, and delve into various coding languages.</p>
 
-### 📢Stay Chuned!
+<h3 align="center">📢 Stay Chuned!</h3>
 
 <!--START_SECTION:WAKA-->
 

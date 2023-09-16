@@ -45,55 +45,9 @@
 
 ### ✍️ My recently created repositories 🆕
 
-
-Name: Chunnyluny/skills-communicate-using-markdown
-Description: learning to use markdown syntax
-URL: https://github.com/Chunnyluny/skills-communicate-using-markdown
-Stars: 0
-
-Name: Chunnyluny/hello-world
-Description: sandbox repo to understand github
-URL: https://github.com/Chunnyluny/hello-world
-Stars: 0
-
-Name: Chunnyluny/skills-github-pages
-Description: how to make github pages
-URL: https://github.com/Chunnyluny/skills-github-pages
-Stars: 0
-
-Name: Chunnyluny/skills-introduction-to-github
-Description: introduction to github
-URL: https://github.com/Chunnyluny/skills-introduction-to-github
-Stars: 0
-
-
 ### ⚒️ My recent contributions 🆒
 
-
-Name: Chunnyluny-RimWorld-Modding/.github
-Description: information about this organisation
-URL: https://github.com/Chunnyluny-RimWorld-Modding/.github
-Occurred: 2 days ago
-
-Name: Chunnyluny-RimWorld-Modding/DogApparel
-Description: DogApparel, a mod that makes dogs more useful on the Rim!
-URL: https://github.com/Chunnyluny-RimWorld-Modding/DogApparel
-Occurred: 3 days ago
-
-Name: Chunnyluny-RimWorld-Modding/troubleshootingguide
-Description: RimWorld troubleshooting guide for modded RimWorld
-URL: https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide
-Occurred: 1 week ago
-
-Name: Chunnyluny-RimWorld-Modding/RimWorldMod
-Description: RimWorld mod template, you can use this repo as template for your first mod.
-URL: https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod
-Occurred: 1 week ago
-
-
 ### 🪢 My recent pull requests 🖥️
-
-
 
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;
@@ -114,6 +68,10 @@ Occurred: 1 week ago
 <p align="center">I recently started to learn how to use GitHub and want to get better at coding. Recently, I started making RimWorld mods using GitHub.
 Welcome to my journey in writing and showing my creative side. I hope to inspire and teach you useful things. I want to inspire others and learn a lot of coding languages.<p align="center">Stay Chuned (pun intended).</p>
 
+<!--START_SECTION:WAKA-->
+
+<!--END_SECTION:WAKA-->
+
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>
    <p align="center">📍GitHub Profile Summary Card Graph</p>
@@ -133,11 +91,5 @@ Welcome to my journey in writing and showing my creative side. I hope to inspire
     <a href="https://git.io/streak-stats">
      <img height="160em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Chunnyluny&amp;theme=radical&amp;date_format=j%20M%5B%20Y%5D" />
     </a>
-   </div>
-<br>
-   <div align="center">
-
-
-
    </div>
 </details>

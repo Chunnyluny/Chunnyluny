@@ -1,17 +1,21 @@
-### ✍️ My recently created repositories 🆕
-{{range recentRepos 4}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{end}}
+### 👩‍💻 Repositories I created recently 🆕
 
-### ⚒️ My recent contributions 🆒
-{{range recentContributions 4}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Description}}
-{{end}}
+{{ range recentRepos 4 }}
+- **[{{ .Name }}]({{ .URL }})** - {{ .Description }} - {{ . }}
+{{ end }}
 
-### 🪢 My recent pull requests 🖥️
-{{range recentPullRequests 4}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
-{{end}}
+
+### ⚒️ What I've been working on 🆒
+
+{{ range recentContributions 4 }}
+- [{{.Repo.Name}}]({{.Repo.URL}})
+{{ end }}
+
+### 🪢 Pull requests 🖥️
+
+{{ range recentPullRequests 4 }}
+- **[{{.Title}}]({{.URL}})** - {{.Repo.Description}}
+{{ end }}
 
 <div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos:
 &emsp;

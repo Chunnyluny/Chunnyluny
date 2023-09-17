@@ -47,9 +47,31 @@
 
 ### ✍️ My recently created repositories 🆕
 
+
+- **[Chunnyluny/skills-communicate-using-markdown](https://github.com/Chunnyluny/skills-communicate-using-markdown)** - learning to use markdown syntax
+
+- **[Chunnyluny/hello-world](https://github.com/Chunnyluny/hello-world)** - sandbox repo to understand github
+
+- **[Chunnyluny/skills-github-pages](https://github.com/Chunnyluny/skills-github-pages)** - how to make github pages
+
+- **[Chunnyluny/skills-introduction-to-github](https://github.com/Chunnyluny/skills-introduction-to-github)** - introduction to github
+
+
 ### ⚒️ My recent contributions 🆒
 
+
+- [Chunnyluny-RimWorld-Modding/.github](https://github.com/Chunnyluny-RimWorld-Modding/.github)
+
+- [Chunnyluny-RimWorld-Modding/DogApparel](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel)
+
+- [Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide)
+
+- [Chunnyluny-RimWorld-Modding/RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod)
+
+
 ### 🪢 My recent pull requests 🖥️
+
+
 
 ---
 
@@ -71,9 +93,22 @@
 <h3 align="center">📢 Stay Chuned!</h3>
 
 <!--START_SECTION:WAKA-->
-<!--END_SECTION:WAKA-->
 
----
+```txt
+From: 25 August 2023 - To: 16 September 2023
+
+Total Time: 51 hrs 21 mins
+
+Markdown         13 hrs 32 mins  ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.38 %
+Other            12 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.32 %
+YAML             12 hrs 6 mins   ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.56 %
+Smarty           5 hrs 6 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.94 %
+JSON             5 hrs 4 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.86 %
+XML              2 hrs 26 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.77 %
+ActionScript     11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.39 %
+```
+
+<!--END_SECTION:WAKA-->
 
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>

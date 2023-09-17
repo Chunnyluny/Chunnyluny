@@ -48,7 +48,7 @@
 ### ✍️ My recently created repositories 🆕
 
 {{ range recentRepos 4 }}
-- **[{{ .Name }}]({{ .URL }})** - {{ .Description }} - {{ . }}
+- **[{{ .Name }}]({{ .URL }})** - {{ .Description }}
 {{ end }}
 
 ### ⚒️ My recent contributions 🆒
@@ -84,8 +84,6 @@
 
 <!--START_SECTION:WAKA-->
 <!--END_SECTION:WAKA-->
-
----
 
 <details>
   <summary align="center">GitHub Profile Summary Card Graph</summary>

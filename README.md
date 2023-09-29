@@ -63,7 +63,7 @@
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 25 August 2023 - To: 28 September 2023
+From: 25 August 2023 - To: 29 September 2023
 
 Total Time: 55 hrs 23 mins
 
